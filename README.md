@@ -25,7 +25,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/netsleuth.git
+   git clone https://github.com/anurag-singh123/NetSleuth
    cd netsleuth
    ```
 
@@ -36,7 +36,7 @@ Ensure you have the following installed:
 
 3. Run the application:
    ```bash
-   python netsleuth.py
+   python NetSleuth.py
    ```
 
 ### How to Use
