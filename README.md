@@ -26,7 +26,7 @@ Ensure you have the following installed:
 1. Clone the repository:
    ```bash
    git clone https://github.com/anurag-singh123/NetSleuth
-   cd netsleuth
+   cd NetSleuth
    ```
 
 2. Install the required Python libraries:
