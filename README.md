@@ -10,7 +10,7 @@ NetSleuth is a user-friendly Python-based GUI tool that allows users to retrieve
 - **Fast and Lightweight**: Multi-threading ensures the tool remains responsive during information retrieval.
 
 ## Screenshot
-![NetSleuth Screenshot]![Screenshot 2024-10-20 112156](https://github.com/user-attachments/assets/f205e034-6d38-4631-a034-474a6feeae05)
+![Screenshot 2024-10-20 112156](https://github.com/user-attachments/assets/f205e034-6d38-4631-a034-474a6feeae05)
 
 
 ## Getting Started
